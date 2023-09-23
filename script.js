@@ -56,3 +56,5 @@ let names = [
       item.remove();
     });
   }
+
+// test issue
